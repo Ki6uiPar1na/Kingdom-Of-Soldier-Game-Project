@@ -4,11 +4,12 @@ Md. Khairul Islam and Mst. Rokeya Akther
 Supervised by Dr. A. H. M. Kamal , Professor, Jatiya Kabi Kazi Nazrul Islam University.
 <table>
   <tr>
-    <td>Name</td> 
-    <td><h3>Md. Khairul Islam</h3></td>
-    <td><h3>Mst. Rokeya Akther</h3></td>
+    <td><h3>Supervisor Name</h3></td> 
+    <td colspan = 2><h3>Dr. AHM Kamal</h3></td>
   </tr>
   <tr>
-  
+    <td><h3>Name</h3></td> 
+    <td><h3>Md. Khairul Islam</h3></td>
+    <td><h3>Mst. Rokeya Akther</h3></td>
   </tr>
 </table>
