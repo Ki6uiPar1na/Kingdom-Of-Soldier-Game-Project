@@ -5,7 +5,7 @@ Supervised by Dr. A. H. M. Kamal , Professor, Jatiya Kabi Kazi Nazrul Islam Univ
 <table>
   <tr>
     <td><h3>Supervisor Name</h3></td> 
-    <td colspan = 2 align = center color = red><h3>Dr. AHM Kamal</h3></td>
+    <td colspan = 2 align = center><h3>Dr. AHM Kamal</h3></td>
   </tr>
   <tr>
     <td><h3>Name</h3></td> 
